@@ -1,0 +1,19 @@
+.box {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+
+    max-width: 200px;
+    max-height: 200px;
+    min-width: 200px;
+    min-height: 200px;
+
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #dbdbdb
+}
